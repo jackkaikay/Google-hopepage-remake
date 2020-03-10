@@ -1,0 +1,48 @@
+
+
+.header {
+    height:20%;
+    width:100%
+}
+
+.headerTL {
+    font-size: 14px;
+    text-align: left;
+}
+
+.footerTL {
+    font-size: 14px;
+    text-align: left;
+}
+
+.headerTR {
+    font-size: 14px;  
+    float: right;
+}
+
+.footerTR {
+    font-size: 14px;  
+    float: right;
+}
+.mainsearch {
+    height: 60%;
+    width: 100%;
+    padding-top: 10%;
+}
+.footerLocation {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    line-height: 40px;
+    background: #f2f2f2;
+  }
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    line-height: 40px;
+    background: #f2f2f2;
+  }
